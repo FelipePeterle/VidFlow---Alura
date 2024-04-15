@@ -11,6 +11,6 @@ Nele foram tratados os seguintes pontos:
 - Conheça as Promises e seus métodos
 - Trate possíveis erros de requisição retornados da AP
 
-Assim, foi ensinado como aprender a criar funções assíncronas do zero, como tratar erros utilizando try e catch, como fazer filtros de input e de click, apartir da API.
+Assim, foi ensinado como aprender a criar funções assíncronas do zero com async, fetch,await e como tratar erros utilizando try e catch, como fazer filtros de input e de click, apartir da API.
 
 Para esse projeto a API utilizada foi a partir do json-server, utilizando o watch para sempre visualizar caso ocorra algum tipo de atualização no arqruivo backend.json.
